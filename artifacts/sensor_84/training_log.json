@@ -1,0 +1,91 @@
+{
+  "gru": [
+    {
+      "epoch": 1,
+      "training_mse": 0.03637310061294081,
+      "validation_mae": 102.18223571777344
+    },
+    {
+      "epoch": 2,
+      "training_mse": 0.03566267406855513,
+      "validation_mae": 99.64408111572266
+    },
+    {
+      "epoch": 3,
+      "training_mse": 0.03528686953518283,
+      "validation_mae": 98.9989242553711
+    },
+    {
+      "epoch": 4,
+      "training_mse": 0.035000513296689385,
+      "validation_mae": 99.93203735351562
+    },
+    {
+      "epoch": 5,
+      "training_mse": 0.0346735107254529,
+      "validation_mae": 98.99464416503906
+    },
+    {
+      "epoch": 6,
+      "training_mse": 0.03437828159760551,
+      "validation_mae": 100.27581787109375
+    },
+    {
+      "epoch": 7,
+      "training_mse": 0.034116191917813586,
+      "validation_mae": 103.16325378417969
+    },
+    {
+      "epoch": 8,
+      "training_mse": 0.03379027761359679,
+      "validation_mae": 101.73382568359375
+    },
+    {
+      "epoch": 9,
+      "training_mse": 0.03343977308400736,
+      "validation_mae": 102.14413452148438
+    }
+  ],
+  "transformer": [
+    {
+      "epoch": 1,
+      "training_mse": 0.036241188309113374,
+      "validation_mae": 101.38294982910156
+    },
+    {
+      "epoch": 2,
+      "training_mse": 0.03548387550436969,
+      "validation_mae": 100.01519775390625
+    },
+    {
+      "epoch": 3,
+      "training_mse": 0.03502729334238023,
+      "validation_mae": 97.5743408203125
+    },
+    {
+      "epoch": 4,
+      "training_mse": 0.03460708795438328,
+      "validation_mae": 97.11302185058594
+    },
+    {
+      "epoch": 5,
+      "training_mse": 0.03411274417049103,
+      "validation_mae": 98.52760314941406
+    },
+    {
+      "epoch": 6,
+      "training_mse": 0.03380500677875697,
+      "validation_mae": 101.8451156616211
+    },
+    {
+      "epoch": 7,
+      "training_mse": 0.03333357114105921,
+      "validation_mae": 101.39878845214844
+    },
+    {
+      "epoch": 8,
+      "training_mse": 0.03283274729875516,
+      "validation_mae": 103.67544555664062
+    }
+  ]
+}

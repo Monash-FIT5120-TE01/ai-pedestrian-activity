@@ -1,0 +1,96 @@
+{
+  "gru": [
+    {
+      "epoch": 1,
+      "training_mse": 0.0300479062965938,
+      "validation_mae": 103.31536102294922
+    },
+    {
+      "epoch": 2,
+      "training_mse": 0.029280050950390952,
+      "validation_mae": 101.45418548583984
+    },
+    {
+      "epoch": 3,
+      "training_mse": 0.028691435818161283,
+      "validation_mae": 100.555419921875
+    },
+    {
+      "epoch": 4,
+      "training_mse": 0.02835171361054693,
+      "validation_mae": 103.5351791381836
+    },
+    {
+      "epoch": 5,
+      "training_mse": 0.02811730184725353,
+      "validation_mae": 102.435791015625
+    },
+    {
+      "epoch": 6,
+      "training_mse": 0.027909934094973974,
+      "validation_mae": 103.21009063720703
+    },
+    {
+      "epoch": 7,
+      "training_mse": 0.027797391159193857,
+      "validation_mae": 103.44526672363281
+    }
+  ],
+  "transformer": [
+    {
+      "epoch": 1,
+      "training_mse": 0.030010489055088588,
+      "validation_mae": 105.27859497070312
+    },
+    {
+      "epoch": 2,
+      "training_mse": 0.029147904898439134,
+      "validation_mae": 110.19227600097656
+    },
+    {
+      "epoch": 3,
+      "training_mse": 0.028613564797810145,
+      "validation_mae": 108.93608093261719
+    },
+    {
+      "epoch": 4,
+      "training_mse": 0.028207594262702123,
+      "validation_mae": 102.94187927246094
+    },
+    {
+      "epoch": 5,
+      "training_mse": 0.027848444772618157,
+      "validation_mae": 108.84717559814453
+    },
+    {
+      "epoch": 6,
+      "training_mse": 0.02764400259724685,
+      "validation_mae": 105.0704116821289
+    },
+    {
+      "epoch": 7,
+      "training_mse": 0.027295439264604024,
+      "validation_mae": 101.96629333496094
+    },
+    {
+      "epoch": 8,
+      "training_mse": 0.027126952633261682,
+      "validation_mae": 109.9960708618164
+    },
+    {
+      "epoch": 9,
+      "training_mse": 0.02672594732471875,
+      "validation_mae": 103.79624938964844
+    },
+    {
+      "epoch": 10,
+      "training_mse": 0.026319387129374913,
+      "validation_mae": 105.2314682006836
+    },
+    {
+      "epoch": 11,
+      "training_mse": 0.026007594114967756,
+      "validation_mae": 104.6626968383789
+    }
+  ]
+}

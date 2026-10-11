@@ -1,0 +1,801 @@
+{
+  "fetchedAt": "2026-10-04T18:17:28.614945+00:00",
+  "reportingCount": 99,
+  "boundary": "Existing My City Twin Hoddle Grid polygon with its 35 m boundary-street margin",
+  "boundaryEN": [
+    [
+      -836.510783827492,
+      133.62472347524155
+    ],
+    [
+      -485.48383626751945,
+      -766.5868100319616
+    ],
+    [
+      1304.4191659249811,
+      -61.828154359173844
+    ],
+    [
+      938.6536309449148,
+      799.5512378439039
+    ]
+  ],
+  "source": "https://data.melbourne.vic.gov.au/api/explore/v2.1/catalog/datasets/pedestrian-counting-system-past-hour-counts-per-minute/records",
+  "sensors": [
+    {
+      "id": 1,
+      "name": "Bourke Street Mall (North)",
+      "lat": -37.81349441,
+      "lon": 144.96515323,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:49:00+00:00"
+    },
+    {
+      "id": 2,
+      "name": "Bourke Street Mall (South)",
+      "lat": -37.81380668,
+      "lon": 144.96516718,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:51:00+00:00"
+    },
+    {
+      "id": 3,
+      "name": "Melbourne Central",
+      "lat": -37.81101524,
+      "lon": 144.96429485,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 4,
+      "name": "Town Hall (West)",
+      "lat": -37.81487988,
+      "lon": 144.9660878,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 17,
+      "name": "Collins Place (South)",
+      "lat": -37.81362543,
+      "lon": 144.97323591,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Device upgraded in 26/02/2020",
+      "latest": "2026-10-04T17:54:00+00:00"
+    },
+    {
+      "id": 18,
+      "name": "Collins Place (North)",
+      "lat": -37.81344862,
+      "lon": 144.97305353,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:00:00+00:00"
+    },
+    {
+      "id": 19,
+      "name": "Chinatown-Swanston St (North)",
+      "lat": -37.81237202,
+      "lon": 144.96550671,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Pushbox Upgrade, 20/07/2023",
+      "latest": "2026-10-04T17:00:00+00:00"
+    },
+    {
+      "id": 20,
+      "name": "Chinatown-Lt Bourke St (South)",
+      "lat": -37.81172914,
+      "lon": 144.9682466,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Pushbox Upgrade, 20/07/2023",
+      "latest": "2026-10-04T17:10:00+00:00"
+    },
+    {
+      "id": 21,
+      "name": "155-161 Russell Street",
+      "lat": -37.81267313,
+      "lon": 144.96788288,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:40:00+00:00"
+    },
+    {
+      "id": 23,
+      "name": "Spencer St-Collins St (South)",
+      "lat": -37.81909256,
+      "lon": 144.95452748,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Pushbox Upgrade, 25/07/2023",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 24,
+      "name": "Spencer St-Collins St (North)",
+      "lat": -37.81887963,
+      "lon": 144.95449198,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 30,
+      "name": "Lonsdale St (South)",
+      "lat": -37.8112185,
+      "lon": 144.96656806,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Pushbox Upgrade, 20/07/2023",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 36,
+      "name": "Queen St (West)",
+      "lat": -37.81652527,
+      "lon": 144.96121062,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Pushbox Upgrade, 03/08/2023",
+      "latest": "2026-10-04T17:35:00+00:00"
+    },
+    {
+      "id": 39,
+      "name": "Alfred Place",
+      "lat": -37.81379749,
+      "lon": 144.96995745,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "In 4/12/2019 sensor upgraded",
+      "latest": "2026-10-04T15:37:00+00:00"
+    },
+    {
+      "id": 40,
+      "name": "Lonsdale St-Spring St (West)",
+      "lat": -37.80999341,
+      "lon": 144.97227587,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Pushbox Upgrade, 03/08/2023",
+      "latest": "2026-10-04T14:50:00+00:00"
+    },
+    {
+      "id": 41,
+      "name": "Flinders La-Swanston St (West)",
+      "lat": -37.81668634,
+      "lon": 144.96689733,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 45,
+      "name": "Little Collins St-Swanston St (East)",
+      "lat": -37.81414075,
+      "lon": 144.96609379,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Pushbox Upgrade, 03/08/2023",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 47,
+      "name": "Melbourne Central-Elizabeth St (East)",
+      "lat": -37.81258467,
+      "lon": 144.9625775,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Pushbox Upgrade, 25/07/2023. Move to 250 Elizabeth Street from adjacent St. Francis Church at 266 Elizabeth.",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 52,
+      "name": "Elizabeth St-Lonsdale St (South)",
+      "lat": -37.81252157,
+      "lon": 144.9619401,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Pushbox Upgrade, 25/07/2023",
+      "latest": "2026-10-04T17:37:00+00:00"
+    },
+    {
+      "id": 53,
+      "name": "Collins Street (North)",
+      "lat": -37.81564191,
+      "lon": 144.965499,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 56,
+      "name": "Lonsdale St - Elizabeth St (North)",
+      "lat": -37.81234775,
+      "lon": 144.96153311,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Sensor device has been replaced",
+      "latest": "2026-10-04T17:40:00+00:00"
+    },
+    {
+      "id": 58,
+      "name": "Bourke St - Spencer St (North)",
+      "lat": -37.81686075,
+      "lon": 144.95358075,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:50:00+00:00"
+    },
+    {
+      "id": 63,
+      "name": "231 Bourke St",
+      "lat": -37.81333081,
+      "lon": 144.96675571,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:53:00+00:00"
+    },
+    {
+      "id": 66,
+      "name": "QV2 Apartments, 300 Swanston Street",
+      "lat": -37.81057846,
+      "lon": 144.96444294,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:54:00+00:00"
+    },
+    {
+      "id": 67,
+      "name": "Flinders Ln -Degraves St (South)",
+      "lat": -37.81688755,
+      "lon": 144.96562569,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:28:00+00:00"
+    },
+    {
+      "id": 68,
+      "name": "Flinders Ln -Degraves St (North)",
+      "lat": -37.8168479,
+      "lon": 144.96559789,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:11:00+00:00"
+    },
+    {
+      "id": 69,
+      "name": "Flinders Ln -Degraves St (Crossing)",
+      "lat": -37.81687226,
+      "lon": 144.96559144,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:12:00+00:00"
+    },
+    {
+      "id": 71,
+      "name": "Westwood Place",
+      "lat": -37.81235775,
+      "lon": 144.97136962,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:41:00+00:00"
+    },
+    {
+      "id": 75,
+      "name": "Spring St- Flinders st (West)",
+      "lat": -37.81515276,
+      "lon": 144.97467661,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:22:00+00:00"
+    },
+    {
+      "id": 79,
+      "name": "Flinders St (South)",
+      "lat": -37.81794046,
+      "lon": 144.96616678,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:53:00+00:00"
+    },
+    {
+      "id": 84,
+      "name": "Elizabeth St - Flinders St (East) - New footpath",
+      "lat": -37.81798049,
+      "lon": 144.96503383,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "Sensing Data started on 2019-02-14",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 107,
+      "name": "Royal Mint 280 William St",
+      "lat": -37.81246271,
+      "lon": 144.95690188,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 109,
+      "name": "La Trobe St- William St (South)",
+      "lat": -37.81193681,
+      "lon": 144.95621105,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 117,
+      "name": "114 Flinders Street Car Park Footpath",
+      "lat": -37.81629332,
+      "lon": 144.97090877,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:30:00+00:00"
+    },
+    {
+      "id": 118,
+      "name": "114 Flinders Street Car Park Crossing",
+      "lat": -37.81632783,
+      "lon": 144.97090512,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T14:35:00+00:00"
+    },
+    {
+      "id": 131,
+      "name": "I-Hub Corner of King Street and Flinders Street (2-6 King)",
+      "lat": -37.82009057,
+      "lon": 144.95758725,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 132,
+      "name": "I-Hub Corner of King Street and Latrobe Street (317-335 King)",
+      "lat": -37.81267639,
+      "lon": 144.95386444,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 133,
+      "name": "I-Hub Southern Cross Station - Lonsdale Street Entrance - South",
+      "lat": -37.81531435,
+      "lon": 144.95227769,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 134,
+      "name": "I-Hub Southern Cross Station - Bourke Street Entrance - North",
+      "lat": -37.81694221,
+      "lon": 144.95303935,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 135,
+      "name": "I-Hub Southern Cross Station - Bourke Street Entrance - South",
+      "lat": -37.8172861,
+      "lon": 144.95319102,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 141,
+      "name": "Awning of Nationwide Parking 474 Flinders Street",
+      "lat": -37.81997273,
+      "lon": 144.95834911,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 164,
+      "name": "I-Hub 526 La Trobe Street (Footpath)",
+      "lat": -37.813005,
+      "lon": 144.95160411,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 167,
+      "name": "I-Hub 526 La Trobe Street (Crossing)",
+      "lat": -37.81304149,
+      "lon": 144.95155955,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 182,
+      "name": "163 King Street",
+      "lat": -37.81627451,
+      "lon": 144.95550503,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 184,
+      "name": "124 Elizabeth Street",
+      "lat": -37.81512416,
+      "lon": 144.96371988,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:55:00+00:00"
+    },
+    {
+      "id": 185,
+      "name": "197 Elizabeth Street",
+      "lat": -37.81374643,
+      "lon": 144.96276183,
+      "status": "A",
+      "type": "Outdoor",
+      "note": "",
+      "latest": "2026-10-04T17:50:00+00:00"
+    }
+  ],
+  "selectedIds": [
+    1,
+    2,
+    3,
+    4,
+    17,
+    18,
+    19,
+    20,
+    21,
+    23,
+    24,
+    30,
+    36,
+    39,
+    40,
+    41,
+    45,
+    47,
+    52,
+    53,
+    56,
+    58,
+    63,
+    66,
+    67,
+    68,
+    69,
+    71,
+    75,
+    79,
+    84,
+    107,
+    109,
+    117,
+    118,
+    131,
+    132,
+    133,
+    134,
+    135,
+    141,
+    164,
+    167,
+    182,
+    184,
+    185
+  ],
+  "excluded": [
+    {
+      "id": 5,
+      "name": "Princes Bridge",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 6,
+      "name": "Flinders Underpass - Myki Barriers",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 8,
+      "name": "Webb Bridge",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 9,
+      "name": "Southern Cross Station",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 10,
+      "name": "Victoria Point",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 11,
+      "name": "Docklands Waterfront City Building Side",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 12,
+      "name": "New Quay",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 14,
+      "name": "Sandridge Bridge",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 25,
+      "name": "Melbourne Convention Exhibition Centre",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 27,
+      "name": "QV Market-Peel St",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 29,
+      "name": "St Kilda Rd-Alexandra Gardens",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 31,
+      "name": "Lygon St (West)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 35,
+      "name": "Southbank Promenade",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 37,
+      "name": "Lygon St (East)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 42,
+      "name": "Grattan St-Swanston St (West)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 43,
+      "name": "Monash Rd-Swanston St (West)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 44,
+      "name": "Tin Alley-Swanston St (West)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 46,
+      "name": "Pelham St (South)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 48,
+      "name": "QVM-Queen St (East)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 49,
+      "name": "QVM-Therry St (South)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 50,
+      "name": "Faraday St-Lygon St (West)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 51,
+      "name": "QVM-Franklin St (North)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 54,
+      "name": "Lincoln-Swanston (West)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 59,
+      "name": "Building 80 RMIT",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 61,
+      "name": "RMIT Building 14",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 62,
+      "name": "La Trobe St (North)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 70,
+      "name": "Errol Street (East)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 72,
+      "name": "Flinders St- ACMI",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 76,
+      "name": "Macaulay Rd- Bellair St",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 77,
+      "name": "Harbour Esplanade (West) - Pedestrian path",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 85,
+      "name": "Macaulay Rd (North)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 86,
+      "name": "Queensberry St - Errol St (South)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 87,
+      "name": "Errol St (West)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 123,
+      "name": "Birrarung Marr East - Batman Ave Bridge Entry",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 124,
+      "name": "Birrarung Marr East - Batman Ave Bridge Entry",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 130,
+      "name": "I-Hub 892 Bourke Street",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 136,
+      "name": "COM Pole 1120 - Towards the City, Near Federation Square Bridge",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 137,
+      "name": "COM Pole 2353 - Towards the city, NAB Building",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 138,
+      "name": "COM Pole 1671 - Enterprize Park, Queens Bridge",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 139,
+      "name": "COM Pole 1647 - Sandridge Bridge Signal Box",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 140,
+      "name": "COM Pole 2837 - Boyd Park",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 142,
+      "name": "Hamer Hall Entrance (COM Pole 1584)",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 143,
+      "name": "Mounted on Toilet - Spencer Street, Batman Park",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 161,
+      "name": "Birrarung Marr - COM - Pole 1109",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 162,
+      "name": "iHub 489 Elizabeth Street",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 165,
+      "name": "475 Spencer Street",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 166,
+      "name": "484 Spencer Street",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 179,
+      "name": "61-67 Power Street Southbank",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 180,
+      "name": "Pumping Station No.2, 330 Macaulay Road",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 181,
+      "name": "368 Elizabeth Street",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 187,
+      "name": "RMIT Building 22 - 330 Swanston Street",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 188,
+      "name": "RMIT Building 51 - 80-92 Victoria Street",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    },
+    {
+      "id": 209,
+      "name": "Flinders Underpass - Walkway",
+      "reason": "Outside existing CBD boundary or not active outdoors"
+    }
+  ]
+}

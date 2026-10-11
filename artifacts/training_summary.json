@@ -1,0 +1,397 @@
+[
+  {
+    "sensor_id": 1,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [330, 0, 76]; need 5 each."
+  },
+  {
+    "sensor_id": 2,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      414,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 3,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      465,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 4,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      465,
+      70,
+      76
+    ]
+  },
+  {
+    "sensor_id": 17,
+    "status": "trained",
+    "selected_model": "seasonal",
+    "windows": [
+      267,
+      70,
+      71
+    ]
+  },
+  {
+    "sensor_id": 18,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [0, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 19,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      380,
+      70,
+      13
+    ]
+  },
+  {
+    "sensor_id": 20,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      390,
+      58,
+      23
+    ]
+  },
+  {
+    "sensor_id": 21,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      366,
+      70,
+      71
+    ]
+  },
+  {
+    "sensor_id": 23,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      442,
+      70,
+      34
+    ]
+  },
+  {
+    "sensor_id": 24,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      393,
+      70,
+      78
+    ]
+  },
+  {
+    "sensor_id": 30,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      465,
+      70,
+      21
+    ]
+  },
+  {
+    "sensor_id": 36,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      325,
+      35,
+      6
+    ]
+  },
+  {
+    "sensor_id": 39,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [0, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 40,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [63, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 41,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      436,
+      36,
+      71
+    ]
+  },
+  {
+    "sensor_id": 45,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      331,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 47,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      441,
+      47,
+      94
+    ]
+  },
+  {
+    "sensor_id": 52,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [322, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 53,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      281,
+      70,
+      35
+    ]
+  },
+  {
+    "sensor_id": 56,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      174,
+      32,
+      20
+    ]
+  },
+  {
+    "sensor_id": 58,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      436,
+      68,
+      37
+    ]
+  },
+  {
+    "sensor_id": 63,
+    "status": "trained",
+    "selected_model": "seasonal",
+    "windows": [
+      162,
+      70,
+      71
+    ]
+  },
+  {
+    "sensor_id": 66,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      465,
+      49,
+      88
+    ]
+  },
+  {
+    "sensor_id": 67,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      315,
+      52,
+      59
+    ]
+  },
+  {
+    "sensor_id": 68,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [0, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 69,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [0, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 71,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [0, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 75,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [0, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 79,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      457,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 84,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      421,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 107,
+    "status": "trained",
+    "selected_model": "seasonal",
+    "windows": [
+      232,
+      35,
+      6
+    ]
+  },
+  {
+    "sensor_id": 109,
+    "status": "trained",
+    "selected_model": "seasonal",
+    "windows": [
+      350,
+      34,
+      40
+    ]
+  },
+  {
+    "sensor_id": 117,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [130, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 118,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [0, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 131,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      324,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 132,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      419,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 133,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      448,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 134,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      457,
+      47,
+      94
+    ]
+  },
+  {
+    "sensor_id": 135,
+    "status": "trained",
+    "selected_model": "transformer",
+    "windows": [
+      442,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 141,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      367,
+      70,
+      94
+    ]
+  },
+  {
+    "sensor_id": 164,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [3, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 167,
+    "status": "skipped",
+    "reason": "Too few complete train/validation/test windows: [0, 0, 0]; need 5 each."
+  },
+  {
+    "sensor_id": 182,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      335,
+      66,
+      65
+    ]
+  },
+  {
+    "sensor_id": 184,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      280,
+      54,
+      54
+    ]
+  },
+  {
+    "sensor_id": 185,
+    "status": "trained",
+    "selected_model": "gru",
+    "windows": [
+      240,
+      50,
+      49
+    ]
+  }
+]
