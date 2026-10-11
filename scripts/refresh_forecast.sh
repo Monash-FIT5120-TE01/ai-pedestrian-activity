@@ -3,8 +3,7 @@
 set -e
 
 # Use the project directory in EC2
-# cd /home/ubuntu/ai-pedestrian-activity
-cd "/Users/pcthanh0802/Documents/Monash/Sem 4/FIT5120 Industry experience project/ai-backend-handoff 2/backend_training"
+cd /home/ubuntu/ai-pedestrian-activity
 
 # Use virtual environment
 PYTHON=".venv/bin/python"
